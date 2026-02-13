@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arslan Zafar</h1>
 <h3 align="center">A passionate DevOps Engineer from Lahore</h3>
 
-- 🌱 I’m currently learning **to become AWS certified Cloud Engineer**
+- 🌱 I’m currently learning **to become AWS certified DevOps Engineer and Azure Certified DevOps Engineer**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
